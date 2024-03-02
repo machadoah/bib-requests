@@ -14,7 +14,7 @@ Intalando as bibliotecas pip e venv do Python:
 
 ### Criando o ambiente vitual:
 
-Criando parta para o projeto:
+Criando pasta para o projeto:
 
 5. `mkdir project`
 
